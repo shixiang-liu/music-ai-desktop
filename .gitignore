@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+publish/
+*.user
+*.suo
+
+# NuGet restore cache
+packages/
+*.nupkg
+
+# Installer output
+*.msi
+*.exe
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Local configuration and data
+*.log
+App.Config.local
+.DS_Store
+Thumbs.db
